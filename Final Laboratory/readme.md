@@ -1,0 +1,1 @@
+The final laboratory integrates all previous concepts into a complete system. A push button on Arduino detects input and sends the group number over serial. Python reads this input and calls a web API to toggle output devices such as LEDs and buzzers. The activity demonstrates real-time integration of sensors, microcontrollers, Python programming, and web-based control systems.
