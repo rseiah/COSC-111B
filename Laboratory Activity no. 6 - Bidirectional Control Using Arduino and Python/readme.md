@@ -1,0 +1,1 @@
+This activity focuses on bidirectional communication between Arduino and Python. Commands are sent from Python to control devices, while sensor data is simultaneously received from Arduino. It highlights the creation of interactive systems with real-time responses, combining programming, electronics, and communication protocols.
