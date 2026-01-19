@@ -1,0 +1,1 @@
+This activity demonstrates controlling Arduino devices using a web-based API built with FastAPI. Commands are sent via HTTP requests to operate LEDs and buzzers in real time. The activity focuses on web integration for microcontroller control and emphasizes the ability to interact with devices through networked applications.
