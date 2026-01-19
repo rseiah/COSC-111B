@@ -1,0 +1,1 @@
+This activity extends Arduino serial communication by integrating Python. Data from Arduino sensors is received in Python, processed, and used to control output devices such as LEDs and buzzers. The activity emphasizes hardware-software integration and real-time monitoring of sensor inputs.
