@@ -1,0 +1,1 @@
+This activity demonstrates serial communication between Arduino and a computer. Sensor readings, such as from a photoresistor, are sent via the serial interface, enabling monitoring and control of output devices like LEDs. The focus is on setting up a reliable communication channel and observing real-time sensor data.
