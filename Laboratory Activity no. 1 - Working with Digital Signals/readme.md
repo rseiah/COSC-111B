@@ -1,0 +1,1 @@
+This activity focuses on working with digital signals in microcontroller systems. Push buttons provide digital inputs to the Arduino, while LEDs serve as output devices. Students learn to read and interpret HIGH and LOW signals, implement basic control logic, and observe how digital inputs affect outputs in real time.
